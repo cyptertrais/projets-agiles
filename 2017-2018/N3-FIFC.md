@@ -249,18 +249,24 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 17 : Nom du projet
+# Équipe 17 : Grand Palace Casino
 
-Description / proposition de valeur unique
+A travers des jeux de casino le but est de se faire le plus de pognon ;) 
+
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* DESCAMPS Gauthier
+* DOUBLECOURT Louis
+* MERIAUX Quentin
+* PLAISANCE Baptiste 
+* DRAME MARIAMA
+* TERTRAIS Cyprien
+
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/tertraic/Casino.git
 
 # Équipe 18 : GetYourCrush
 
